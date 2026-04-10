@@ -1,8 +1,8 @@
 I'm Bruna, a **backend developer** in training focused on building APIs and web applications.
 
-🎓 Currently pursuing a degree in Systems Analysis and Development
-🧠 Learning Java and Spring, focusing on API development and database integration
-🎯 Building projects to improve my skills and portfolio
+-🎓 Currently pursuing a degree in Systems Analysis and Development
+-🧠 Learning Java and Spring, focusing on API development and database integration
+-🎯 Building projects to improve my skills and portfolio
 
 
 
