@@ -6,7 +6,7 @@ I'm Bruna, a **backend developer in training**, focused on building APIs and web
 
 <p>🎯 Building projects to improve my skills and portfolio</p>
 
-<p>👩🏼‍💻 More about me in me <a href="https://bruhvicentee.github.io/portfolio/" target="blank_">Portfolio</a> </p>
+<p>👩🏼‍💻 More about me in my <a href="https://bruhvicentee.github.io/portfolio/" target="blank_">Portfolio</a></p>
 
 <hr>
 
