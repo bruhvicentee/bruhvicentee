@@ -6,6 +6,8 @@ I'm Bruna, a **backend developer in training**, focused on building APIs and web
 
 <p>🎯 Building projects to improve my skills and portfolio</p>
 
+<p>👩🏼‍💻 More about me in me <a href="https://bruhvicentee.github.io/portfolio/" target="blank_">Portfolio</a> </p>
+
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,python,react,spring,mysql,postgresql,html,css,git,github)](https://skillicons.dev)
